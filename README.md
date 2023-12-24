@@ -2,6 +2,18 @@
 
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" style="justify-content: center;">
 
+<div id="badges">
+  <a href="www.linkedin.com/in/pramardhika">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/aqiyasss/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    <a href="https://discordapp.com/users/tokyogetto.">
+    <img src="https://img.shields.io/badge/Discord-yellow?style=for-the-badge&logo=discord&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teenagemess&label=Profile%20views&color=0e75b6&style=flat" alt="teenagemess" /> </p>
 
 _________________
@@ -9,15 +21,6 @@ _________________
 ### 🚀 About Me :
 
 Information Technology Students who have an interest in the world of technology and its development. Also have the motivation to get to know more and improve my experience.
-
-_________________
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pramardhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramardhika" height="30" width="40" /></a>
-<a href="https://instagram.com/aqiyasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqiyasss" height="30" width="40" /></a>
-<a href="https://discord.gg/tokyogetto." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tokyogetto." height="30" width="40" /></a>
-</p>
 
 _________________
 

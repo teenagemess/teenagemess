@@ -18,7 +18,7 @@
 
 _________________
 
-### 🚀 About Me :
+### 🚨 About Me :
 
 Information Technology Students who have an interest in the world of technology and its development. Also have the motivation to get to know more and improve my experience.
 

@@ -1,6 +1,6 @@
 <h1 align="">Hi 👋, I'm Raynanda Aqiyas Pramardhika</h1>
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" style="justify-content: center;">
+<img src="https://i.pinimg.com/originals/19/e6/d5/19e6d5753e3cd09dcd4e9bcf4f8b1e6b.gif" alt="Coding" width="400px" height="350px">
 
 <div id="badges">
   <a href="www.linkedin.com/in/pramardhika">

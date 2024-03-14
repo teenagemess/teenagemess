@@ -22,6 +22,10 @@ _________________
 
 Information Technology Students who have an interest in the world of technology and its development. Also have the motivation to get to know more and improve my experience.
 
+📫 How to reach me rpramardika@gmail.com
+
+🗒️ Check My Portofolio https://teenagemess.github.io/My-Portofolio/
+
 _________________
 
 <h3 align="left">Languages and Tools:</h3>
